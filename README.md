@@ -15,18 +15,18 @@ This website is the landing page for Dakota Straub Portfolio.
 
 
 
-2. How to Get There
+## 2. How to Get There
 
 
 
 
 
 
-3. Usage Tips
+## 3. Usage Tips
 
 
 
-4. Contributing
+## 4. Contributing
 Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
 
 
@@ -34,4 +34,4 @@ Pull requests are welcome. For major changes, please open let repository owner k
 
 
 
-5. License
+## 5. License
