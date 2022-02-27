@@ -7,10 +7,31 @@
 ### This is the viewing page for Dakota Straub web portfolio.
 
 
-Desktop screen:
 
-@@ -19,8 +20,6 @@ Smaller devices screen example:
 
-![Top-Page-Area](./assets/images/main-page-smaller.JPG?raw=true "Top-Page-Area")
 
 This website is the landing page for Dakota Straub Portfolio.
+
+
+
+
+2. How to Get There
+
+
+
+
+
+
+3. Usage Tips
+
+
+
+4. Contributing
+Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
+
+
+
+
+
+
+5. License
